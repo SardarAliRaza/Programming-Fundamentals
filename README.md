@@ -13,4 +13,3 @@
 ## Description
 This repository contains Programming Fundamentals lab tasks and practice programs written in C++ as part of university coursework.
 
-## Folder Structure
